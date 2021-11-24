@@ -1,0 +1,4 @@
+export enum ProgressType {
+    AMBULATORY_HEALTH_CLAIM,
+    AMBULATORY_HEALTH_CLAIM_CONT
+}
